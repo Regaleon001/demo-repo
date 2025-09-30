@@ -1,0 +1,4 @@
+foods = ['meat', 'fish', 'tomato', 'bell pepper']
+for f in foods:
+    print (f)
+    print (len(f))
