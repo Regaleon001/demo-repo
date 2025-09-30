@@ -1,0 +1,14 @@
+...
+break statement: It is used to tell the computer to stop at a particular point
+...
+
+
+
+itemsevenpack = 4500
+
+for n in range(4000, 5000, 100):
+    if n == itemsevenpack:
+        print(n, "is the price of item seven pack")
+        break
+else:
+    print(n)
