@@ -1,0 +1,27 @@
+for x in range(20, 100, 2):
+    print(x)
+
+The command for x in range is used to iterate over a sequence of numbers, generating each number in the specified range one
+ at a time. In this case, it starts from 20 and goes up to (but does not include) 100, incrementing by 2 with each iteration. 
+ This means it will print all even numbers between 20 and 98.
+
+
+ The command means solve for x in the range 20 to 100, show the result in multiple of 2
+
+
+
+
+grilled chicken= 70
+
+while grilled chicken < 100:
+    print(grilled chicken)
+    grilled chicken += 2
+
+
+
+
+it means that while grilled chicken is less than hundred, print the value of grilled chicken and add 2 to it each time the
+loop runs. I.e it will print all een numbers from 70 to 98
+          
+
+
